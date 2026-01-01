@@ -4,3 +4,8 @@ p {
     background-color: lightpink;
     font-family: Verdana,"DejaVu Sans","Sans serif";
 }
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
