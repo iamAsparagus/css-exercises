@@ -9,3 +9,12 @@ p {
     color: blue;
     font-size: 36px;
 }
+
+.size-text {
+    font-size: 24px;
+}
+
+#foruth-element {
+    background-color: lightgreen;
+    font-weight: bold;
+}
