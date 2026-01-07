@@ -37,6 +37,7 @@ body {
   display: flex;
   padding: 52px;
   width: 200px;
+  justify-content: center;
 }
 
 .title {
