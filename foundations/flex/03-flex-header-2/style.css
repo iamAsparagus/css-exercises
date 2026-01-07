@@ -49,17 +49,3 @@ ul {
 
 /* Code I added */
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-ul {
-  display: flex;
-}
-
-.left .right {
-  display: flex;
-  align-items: center;
-}
