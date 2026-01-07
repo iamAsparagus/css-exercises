@@ -55,7 +55,7 @@ ul {
   align-items: center;
 }
 
-.left {
+.lef, .right {
   display: flex;
   align-items: center;
 }
