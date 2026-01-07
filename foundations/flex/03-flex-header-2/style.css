@@ -47,9 +47,9 @@ a {
 
 ul {
   list-style-type: none;
-  justify-content: center;
 }
 
 .left {
   display: flex;
+  align-items: center;
 }
