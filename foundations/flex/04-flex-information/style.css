@@ -42,3 +42,7 @@ body {
 .title {
   margin-bottom: 32px;
 }
+
+.info {
+  max-width: 200px;
+}
