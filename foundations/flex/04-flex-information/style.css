@@ -24,3 +24,11 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Code I added */
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
