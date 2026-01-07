@@ -49,3 +49,6 @@ ul {
 
 /* Code I added */
 
+.header {
+  display: flex;
+}
