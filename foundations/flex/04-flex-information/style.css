@@ -36,4 +36,5 @@ body {
 .stuff {
   display: flex;
   margin: 32px;
+  padding: 52px;
 }
