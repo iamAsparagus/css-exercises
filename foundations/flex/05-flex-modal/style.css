@@ -69,8 +69,13 @@ button.cancel {
 }
 
 /*Code I added */
- .modal {
+ 
+.modal {
   display: flex;
   gap: 16px;
-  padding: 16px
+  padding: 16px;
+ }
+
+ .icon {
+  flex-shrink: 0;
  }
