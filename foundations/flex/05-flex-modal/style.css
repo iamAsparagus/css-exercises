@@ -77,3 +77,7 @@ button.cancel {
 .right-header {
   display: flex;
 }
+
+.icon {
+  flex-shrink: 0;
+}
