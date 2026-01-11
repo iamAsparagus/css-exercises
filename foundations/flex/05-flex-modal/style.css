@@ -69,17 +69,3 @@ button.cancel {
 }
 
 /*Code I added */
-
-.modal {
-  display: flex;
-}
-
-.right-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.icon {
-  flex-shrink: 0;
-}
