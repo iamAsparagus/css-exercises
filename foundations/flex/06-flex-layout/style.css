@@ -39,5 +39,8 @@ body {
   justify-content: space-between;
   padding: 10px;
   background-color: burlywood;
+}
 
+ul {
+  list-style-type: none;
 }
