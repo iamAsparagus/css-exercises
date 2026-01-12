@@ -42,6 +42,8 @@ body {
 }
 
 .header {
+  display: flex;
   font-size: 32px;
   font-weight: 900;
+  align-items: center;
 }
