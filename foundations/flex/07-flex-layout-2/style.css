@@ -69,3 +69,10 @@ a {
 ul {
   list-style: none;
 }
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
+  gap: 8px;
+}
