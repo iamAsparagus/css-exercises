@@ -42,6 +42,7 @@ body {
 
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 .left-links, .right-links {
@@ -62,4 +63,9 @@ gap: 16px;
 
 button {
   padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
 }
