@@ -74,5 +74,5 @@ ul {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
-  gap: 8px;
+  gap: 32px;
 }
